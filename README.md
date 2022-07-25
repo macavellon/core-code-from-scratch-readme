@@ -11,15 +11,16 @@ Tuesday:
    
 Wednesday:
 1. My date of birth is 05-13-1994
-   5 to binary:
-   5/2= 2 + 1 
-   4/2=  0
-   It is 01
-   13 to binary:
-   13/2= 6 + 1
-   6/2 = 3 + 0
-   3/2 = 1 + 1
-   It is 101
+  . 5 to binary:
+  . 5/2= 2 + 1 
+  . 4/2=  0
+  . It is 01
+  
+  . 13 to binary:
+  . 13/2= 6 + 1
+  . 6/2 = 3 + 0
+  . 3/2 = 1 + 1
+  . It is 101
    1994 to binary:
    1994/2 = 997 + 0
    997/2 = 498 + 1
