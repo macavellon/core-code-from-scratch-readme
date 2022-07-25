@@ -11,10 +11,10 @@ Tuesday:
    
 Wednesday:
 1. My date of birth is 05-13-1994
-  . 5 to binary:
-  . 5/2= 2 + 1 
-  . 4/2=  0
-  . It is 01
+  - 5 to binary:
+  - 5/2= 2 + 1 
+  - 4/2=  0
+  - It is 01
   
   . 13 to binary:
   . 13/2= 6 + 1
